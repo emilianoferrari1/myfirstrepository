@@ -1,2 +1,2 @@
 # myfirstrepository
-Exercise 1
+This is my first repository for social coding course. #Desio #SocialStreet Via Milano :Smile:
